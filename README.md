@@ -45,9 +45,7 @@ Hi there! 👋 I’m **Daryna Abramovych**
 ---
 
 ## 📂 Featured Projects
-- [Political Trust in Switzerland](https://github.com/daryna056/political-trust-switzerland) – Ordered Logit econometric model using survey data (R)  
-- [Telco Customer Churn](https://github.com/daryna056/telco-churn-prediction) – Machine learning pipeline with feature engineering & evaluation (Python)  
-- [Internet Growth Panel Data](https://github.com/daryna056/panel-data-internet-growth) – Fixed & random effects models, Hausman test, robustness checks (R)  
+
 
 
 ## 🌐 Connect with Me:
