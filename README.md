@@ -41,7 +41,7 @@ Hi there! 👋 I’m **Daryna Abramovych**
 ### 🔍 [Political Trust Modeling](https://github.com/daryna056/political-trust-project)
 End-to-end R pipeline using ML, PSM, and regression to analyze political trust.  
 🧪 ROC curves, variable importance, and ATT estimation.  
-📊 Outputs: [Figures](https://github.com/daryna056/political-trust-project/outputs/figures) | [Tables](https://github.com/daryna056/political-trust-project/outputs/tables)
+📊 Outputs: [Figures](https://github.com/daryna056/Political-Trust-Project/tree/main/political-trust-project/outputs/figures) | [Tables](https://github.com/daryna056/Political-Trust-Project/tree/main/political-trust-project/outputs/tables)
 
 
 
