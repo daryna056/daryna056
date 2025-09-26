@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi there! 👋 I’m **Daryna Abramovych**  
 📊 **Modeling Analyst | Data Scientist | Econometrician**  
 🎓 Graduate in **Quantitative Methods in Economics & Information Systems (SGH Warsaw School of Economics)**  
@@ -7,7 +7,7 @@ Hi there! 👋 I’m **Daryna Abramovych**
 
 ---
 
-## 🚀 What I Do:
+##  What I Do:
 - 🧮 Build and deploy **statistical & econometric models** (regression, time series, Logit/Probit, choice models)  
 - 📊 Transform and analyze **large-scale datasets** using SQL, R, Python, and MATLAB  
 - ⚙️ Automate **pipelines & dashboards** for consistent, scalable analytics  
@@ -15,7 +15,7 @@ Hi there! 👋 I’m **Daryna Abramovych**
 
 ---
 
-## 💻 Tech Stack:
+##  Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)  
@@ -25,13 +25,6 @@ Hi there! 👋 I’m **Daryna Abramovych**
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)  
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=daryna056&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=daryna056&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daryna056&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -45,6 +38,11 @@ Hi there! 👋 I’m **Daryna Abramovych**
 ---
 
 ## 📂 Featured Projects
+### 🔍 [Political Trust Modeling](https://github.com/daryna056/political-trust-project)
+End-to-end R pipeline using ML, PSM, and regression to analyze political trust.  
+🧪 ROC curves, variable importance, and ATT estimation.  
+📊 Outputs: [Figures](https://github.com/daryna056/political-trust-project/tree/main/outputs/figures) | [Tables](https://github.com/daryna056/political-trust-project/tree/main/outputs/tables)
+
 
 
 
